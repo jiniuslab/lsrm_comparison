@@ -1,0 +1,151 @@
+Child Behavior Checklist (CBCL) -- Age 6-18					
+Question	Label	Variable	Variable Type	Values	Value Labels
+1. Acts too young for his/her age	1	CBCL_01	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+2. Drinks alcohol without parents' approval	2	CBCL_02	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+3. Argues a lot	3	CBCL_03	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+4. Fails to finish things he/she starts	4	CBCL_04	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+5. There is very little he/she enjoys	5	CBCL_05	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+6. Bowel movements outside toilet	6	CBCL_06	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"7. Bragging, boasting"	7	CBCL_07	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"8. Can't concentrate, can't pay attention for long"	8	CBCL_08	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+9. Can't get his/her mind off certain thoughts; obsessions	9	CBCL_09	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"10. Can't sit still, restless or hyperactive"	10	CBCL_10	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+11. Clings to adults or too dependent	11	CBCL_11	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+12. Complains of loneliness	12	CBCL_12	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+13. Confused or seems to be in a fog	13	CBCL_13	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+14. Cries a lot	14	CBCL_14	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+15. Cruel to animals	15	CBCL_15	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"16. Cruelty, bullying, or meanness to others"	16	CBCL_16	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+17. Daydreams or gets lost in his/her thoughts	17	CBCL_17	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+18. Deliberately harms self or attempts suicide	18	CBCL_18	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+19. Demands a lot of attention	19	CBCL_19	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+20. Destroys his/her own things	20	CBCL_20	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+21. Destroys things belonging to his/her family or others	21	CBCL_21	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+22. Disobedient at home	22	CBCL_22	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+23. Disobedient at school	23	CBCL_23	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+24. Doesn't eat well	24	CBCL_24	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+25. Doesn't get along well with other kids	25	CBCL_25	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+26. Doesn't seem to feel guilty after misbehaving	26	CBCL_26	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+27. Easily jealous	27	CBCL_27	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"28. Breaks rules at home, school, or elsewhere"	28	CBCL_28	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"29. Fears certain animals, situations, or places, other than school"	29	CBCL_29	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+30. Fears going to school	30	CBCL_30	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+31. Fears he/she might think or do something bad	31	CBCL_31	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+32. Feels he/she has to be perfect	32	CBCL_32	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+33. Feels or complains that no one loves him/her	33	CBCL_33	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+34. Feels others are out to get him/her	34	CBCL_34	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+35. Feels worthless or inferior	35	CBCL_35	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"36. Gets hurt a lot, accident-prone"	36	CBCL_36	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+37. Gets in many fights	37	CBCL_37	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+38. Gets teased a lot	38	CBCL_38	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+39. Hangs around with others who get in trouble	39	CBCL_39	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+40. Hears sounds or voices that aren't there	40	CBCL_40	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+41. Impulsive or acts without thinking	41	CBCL_41	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+42. Would rather be along than with others	42	CBCL_42	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+43. Lying or cheating	43	CBCL_43	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+44. Bites fingernails	44	CBCL_44	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"45. Nervous, highstrung, or tense"	45	CBCL_45	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+46. Nervous movements or twitching	46	CBCL_46	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+47. Nightmares	47	CBCL_47	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+48. Not liked by other kids	48	CBCL_48	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"49. Constipated, doesn't move bowels"	49	CBCL_49	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+50. Too fearful or anxious	50	CBCL_50	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+51. Feels dizzy or lightheaded	51	CBCL_51	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+52. Feels too guilty	52	CBCL_52	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+53. Overeating	53	CBCL_53	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+54. Overtired without good reason	54	CBCL_54	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+55. Overweight	55	CBCL_55	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+56. Physical problems without known medical cause					
+     56A. Aches or pains (not stomach or headaches)	56	CBCL_56A	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+     56B. Headaches	57	CBCL_56B	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"     56C. Nausea, feels sick"	58	CBCL_56C	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+     56D.A. Problems with eyes (not if corrected by glasses	59	CBCL_56D	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+     56E. Rashes or other skin problems	60	CBCL_56E	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+     56F. Stomachaches	61	CBCL_56F	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"     56G. Vomiting, throwing up"	62	CBCL_56G	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+     56H.A. Other	63	CBCL_56H	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+57. Physically attacks people	64	CBCL_57	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"58. Picks nose, skin, or other parts of body"	65	CBCL_58	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+59. Plays with own sex parts in public	66	CBCL_59	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+60. Plays with own sex parts too much	67	CBCL_60	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+61. Poor school work	68	CBCL_61	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+62. Poorly coordinated or clumsy	69	CBCL_62	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+63. Prefers being with older kids	70	CBCL_63	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+64. Prefers being with younger kids	71	CBCL_64	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+65. Refuses to talk	72	CBCL_65	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+66. Repeats certain acts over and over; compulsions 	73	CBCL_66	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+67. Runs away from home	74	CBCL_67	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+68. Screams a lot	75	CBCL_68	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"69. Secretive, keeps things to self"	76	CBCL_69	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+70. Sees things that aren't there	77	CBCL_70	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+71. Self-conscious or easily embarrassed	78	CBCL_71	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+72. Sets fires	79	CBCL_72	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+73. Sexual problems	80	CBCL_73	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+74. Showing off or clowning	81	CBCL_74	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+75. Too shy or timid	82	CBCL_75	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+76. Sleeps less than most kids	83	CBCL_76	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+77. Sleeps more than most kids during day and/or night	84	CBCL_77	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+78. Inattentive or easily distracted	85	CBCL_78	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+79. Speech problem	86	CBCL_79	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+80. Stares blankly 	87	CBCL_80	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+81. Steals at home	88	CBCL_81	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+82. Steals outside the home	89	CBCL_82	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+83. Stores up too many things he/she doesn't need	90	CBCL_83	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+84. Strange behavior	91	CBCL_84	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+85. Strange ideas	92	CBCL_85	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"86. Stubborn, sullen, or irritable"	93	CBCL_86	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+87. Sudden changes in mood or feelings	94	CBCL_87	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+88. Sulks a lot	95	CBCL_88	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+89. Suspicious	96	CBCL_89	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+90. Swearing or obscene language	97	CBCL_90	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+91. Talks about killing self	98	CBCL_91	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+92. Talks or walks in sleep	99	CBCL_92	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+93. Talks too much	100	CBCL_93	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+94. Teases a lot	101	CBCL_94	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+95. Temper tantrums or hot temper	102	CBCL_95	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+96. Thinks about sex too much	103	CBCL_96	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+97. Threatens people	104	CBCL_97	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+98. Thumb-sucking	105	CBCL_98	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"99. Smokes, chews, or sniffs tobacco"	106	CBCL_99	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+100. Trouble sleeping 	107	CBCL_100	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"101. Truancy, skips school"	108	CBCL_101	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"102. Underactive, slow moving, or lacks energy"	109	CBCL_102	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"103. Unhappy, sad, or depressed"	110	CBCL_103	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+104. Unusually loud	111	CBCL_104	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+105. Uses drugs for nonmedical purposes (don't include alcohol or tobacco)	112	CBCL_105	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+106. Vandalism	113	CBCL_106	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+107. Wets self during the day	114	CBCL_107	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+108. Wets the bed	115	CBCL_108	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+109. Whining	116	CBCL_109	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+110. Wishes to be of opposite sex	117	CBCL_110	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+"111. Withdrawn, doesn't get inolved with others"	118	CBCL_111	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+112. Worries	119	CBCL_112	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+113. Please write in any problems your child has that were not listed above					
+      113A. Has other problem		CBCL_113A	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+      113B. Has other problem		CBCL_113B	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+      113C. Has other problem		CBCL_113C	Numeric	0-2	"0=Not true, 1=Somewhat or sometimes true, 2=Very true or often true"
+Scores					
+Anxious/Depressed Raw Score		CBCL_AD	Numeric		
+Anxious/Depressed T Score		CBCL_AD_T	Numeric		
+Withdrawn/Depressed Raw Score		CBCL_WD	Numeric		
+Withdrawn/Depressed T Score		CBCL_WD_T	Numeric		
+Somatic Complaints Raw Score		CBCL_SC	Numeric		
+Somatic Complaints T Score		CBCL_SC_T	Numeric		
+Social Problems Raw Score		CBCL_SP	Numeric		
+Social Problems T Score		CBCL_SP_T	Numeric		
+Thought Problems Raw Score		CBCL_TP	Numeric		
+Thought Problems T Score		CBCL_TP_T	Numeric		
+Attention Problems Raw Score		CBCL_AP	Numeric		
+Attention Problems T Score		CBCL_AP_T	Numeric		
+Rule Breaking Behavior Raw Score		CBCL_RBB	Numeric		
+Rule Breaking Behavior T Score		CBCL_RBB_T	Numeric		
+Aggressive Behavior Raw Score		CBCL_AB	Numeric		
+Aggressive Behavior T Score		CBCL_AB_T	Numeric		
+Other Problems Raw Score		CBCL_OP	Numeric		
+Internalizing Raw Score		CBCL_Int	Numeric		
+Internalizing T Score		CBCL_Int_T	Numeric		
+Externalizing Raw Score		CBCL_Ext	Numeric		
+Externalizing T Score		CBCL_Ext_T	Numeric		
+C Score Raw Score		CBCL_C	Numeric		
+Total Raw Score		CBCL_Total	Numeric		
+Total T Score		CBCL_Total_T	Numeric		
