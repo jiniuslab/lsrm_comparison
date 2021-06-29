@@ -20,7 +20,6 @@ Code for  comparing hidden structure of cbcl and ysr using LSRM
     4. Calculate basic matrix using pre-defined function
     5. Basic visualization using basic matrix
    
-   
 - Supplementary : 
 
   - Contains supplementary information about data, model, and analysis
